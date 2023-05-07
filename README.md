@@ -1,2 +1,2 @@
-# Landing-page-Odin
+# Landing-page
 checking if it works 
